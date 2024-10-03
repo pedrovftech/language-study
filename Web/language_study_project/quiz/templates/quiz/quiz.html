@@ -20,7 +20,7 @@
                 {% if correct %}
                     <strong>Correto!</strong> Sua resposta: {{ user_answer }}.
                 {% else %}
-                    <strong>Incorreto!</strong> Sua resposta: {{ user_answer }}. Resposta correta: {{ current_question.correct_text }}.
+                    <strong>Incorreto!</strong> Sua resposta: {{ user_answer }}. Resposta correta: {{ current_question.correct_text|safe }}.
                 {% endif %}
             </div>
         {% endif %}

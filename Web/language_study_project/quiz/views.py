@@ -5,7 +5,7 @@ import json
 
 def quiz_view(request, question_index=0):
     # Carregar as perguntas do arquivo JSON
-    with open('questions.json', 'r') as file:
+    with open('questions.json', 'r', encoding='utf-8') as file:
         data = json.load(file)
 
     # Pegar as questões
@@ -36,14 +36,14 @@ def quiz_view(request, question_index=0):
                 'correct_answer': question['correct_text'],
                 'correct': correct,
             })
-
-            # Gravar a posição onde o usuário parou
-            request.session['current_question_index'] = question_index + 1
+            
+            # Gravar a posição onde o usuário parou            
+            request.session['current_question_index'] = question_index
 
             # Não redirecionar imediatamente, apenas renderizar a mesma página para mostrar o feedback
             context = {
                 'form': form,
-                'question_index': question_index + 1,
+                'question_index': question_index,
                 'total': len(concepts),
                 'current_question': question,  # Passar a pergunta atual
                 'is_answered': is_answered,
