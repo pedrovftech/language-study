@@ -1,0 +1,637 @@
+[
+    {
+        "title": "Prepositions of Time",
+        "concepts": [
+            {
+                "question": "We usually meet ___ weekends.",
+                "correct_text": "on",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "The meeting is scheduled ___ 3 PM.",
+                "correct_text": "at",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "He was born ___ 1990.",
+                "correct_text": "in",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "I like to go swimming ___ summer.",
+                "correct_text": "in",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "We always go to the beach ___ August.",
+                "correct_text": "in",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "My birthday is ___ December 15th.",
+                "correct_text": "on",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "The store closes ___ midnight.",
+                "correct_text": "at",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "I was born ___ the 20th century.",
+                "correct_text": "in",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "She starts her new job ___ Monday.",
+                "correct_text": "on",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "We will see you ___ Christmas.",
+                "correct_text": "at",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "I like to read books ___ the evening.",
+                "correct_text": "in",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "I prefer to study ___ the morning.",
+                "correct_text": "in",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "The concert is ___ Saturday night.",
+                "correct_text": "on",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "He arrived ___ 9 AM.",
+                "correct_text": "at",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "They always travel ___ summer.",
+                "correct_text": "in",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "We have a party ___ New Year's Eve.",
+                "correct_text": "on",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "I will meet you ___ the café.",
+                "correct_text": "at",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "She goes to yoga class ___ Wednesdays.",
+                "correct_text": "on",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "The kids go to bed ___ 8 PM.",
+                "correct_text": "at",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "My grandmother lives ___ a small village.",
+                "correct_text": "in",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "I enjoy listening to music ___ the car.",
+                "correct_text": "in",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "We have dinner ___ 7 PM.",
+                "correct_text": "at",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "He will be back ___ an hour.",
+                "correct_text": "in",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "She was sitting ___ the table.",
+                "correct_text": "at",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "We plan to travel ___ the holidays.",
+                "correct_text": "during",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "The store is closed ___ Sunday.",
+                "correct_text": "on",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "I like to take a walk ___ the park.",
+                "correct_text": "in",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "The festival is held ___ the first week of June.",
+                "correct_text": "in",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "I will call you ___ the weekend.",
+                "correct_text": "on",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "The train leaves ___ 10:30 AM.",
+                "correct_text": "at",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "We will go hiking ___ the fall.",
+                "correct_text": "in",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "He has a meeting ___ Friday morning.",
+                "correct_text": "on",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "She went to bed ___ midnight.",
+                "correct_text": "at",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "The project is due ___ the end of the month.",
+                "correct_text": "at",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "I have a dentist appointment ___ Tuesday.",
+                "correct_text": "on",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "We were in Paris ___ the summer of 2020.",
+                "correct_text": "in",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "I will meet you ___ the library.",
+                "correct_text": "at",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "She was born ___ March.",
+                "correct_text": "in",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "He goes to gym ___ Mondays.",
+                "correct_text": "on",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "I left my keys ___ the kitchen.",
+                "correct_text": "in",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "We have a family dinner ___ Thanksgiving.",
+                "correct_text": "on",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "The train arrives ___ 8 AM.",
+                "correct_text": "at",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "The book was published ___ 2015.",
+                "correct_text": "in",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "I work best ___ the morning.",
+                "correct_text": "in",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "We will celebrate ___ my birthday next week.",
+                "correct_text": "on",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "The conference starts ___ 9 AM.",
+                "correct_text": "at",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "I prefer to read ___ night.",
+                "correct_text": "at",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "The seminar will take place ___ the main hall.",
+                "correct_text": "in",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "She has a meeting ___ noon.",
+                "correct_text": "at",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "I met him ___ the party.",
+                "correct_text": "at",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "He usually plays soccer ___ the weekends.",
+                "correct_text": "on",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "The library opens ___ 10 AM.",
+                "correct_text": "at",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "We traveled to London ___ the winter.",
+                "correct_text": "in",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "I was born ___ 15th of July.",
+                "correct_text": "on",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "The dog is lying ___ the grass.",
+                "correct_text": "on",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "She is coming over ___ the weekend.",
+                "correct_text": "on",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "We usually have a barbecue ___ summer.",
+                "correct_text": "in",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "The show starts ___ 8 PM.",
+                "correct_text": "at",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "He lives ___ New York City.",
+                "correct_text": "in",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "We will go to the zoo ___ Saturday.",
+                "correct_text": "on",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "She got her driver's license ___ 18.",
+                "correct_text": "at",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "They will visit us ___ the holidays.",
+                "correct_text": "during",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "I will send you an email ___ the morning.",
+                "correct_text": "in",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "The museum closes ___ 5 PM.",
+                "correct_text": "at",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "He has a soccer game ___ Friday.",
+                "correct_text": "on",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "I will see you ___ the cinema.",
+                "correct_text": "at",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "We are going to Spain ___ the spring.",
+                "correct_text": "in",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "She likes to jog ___ the morning.",
+                "correct_text": "in",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "The game is ___ the weekend.",
+                "correct_text": "on",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            },
+            {
+                "question": "I found the book ___ the shelf.",
+                "correct_text": "on",
+                "options": [
+                    "in",
+                    "on",
+                    "at"
+                ]
+            }
+        ]
+    }
+]

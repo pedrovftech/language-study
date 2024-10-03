@@ -1,0 +1,23 @@
+{% extends 'quiz/base.html' %}
+
+{% block content %}
+<div class="card">
+    <div class="card-header">
+        Resultados
+    </div>
+    <div class="card-body">
+        <p>Sua pontuação: <strong>{{ score }} / {{ total }}</strong></p>
+        <ul class="list-group">
+            {% for result in results %}
+                <li class="list-group-item">
+                    <strong>{{ result.question }}</strong><br>
+                    Sua resposta: <span class="{{ 'text-success' if result.user_answer == result.correct_answer else 'text-danger' }}">{{ result.user_answer }}</span><br>
+                    Resposta correta: {{ result.correct_answer }}
+                </li>
+            {% endfor %}
+        </ul>
+        <a href="{% url 'quiz' %}" class="btn btn-primary mt-3">Tentar Novamente</a>
+        <a href="{% url 'reset_quiz' %}" class="btn btn-secondary mt-3">Reiniciar Quiz</a> <!-- Novo botão -->
+    </div>
+</div>
+{% endblock %}
