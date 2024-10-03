@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container mt-5">
+        <h2>Pergunta {{ question_index }} de {{ total }}</h2>
+        <form method="post">
+            {% csrf_token %}
+            {{ form.as_p }}
+            <button type="submit" class="btn btn-primary">Responder</button>
+        </form>
+
+        {% if is_answered %}
+            <div class="alert mt-3 {% if correct %}alert-success{% else %}alert-danger{% endif %}">
+                {% if correct %}
+                    <strong>Correto!</strong> Sua resposta: {{ user_answer }}.
+                {% else %}
+                    <strong>Incorreto!</strong> Sua resposta: {{ user_answer }}. Resposta correta: {{ current_question.correct_text }}.
+                {% endif %}
+            </div>
+        {% endif %}
+
+        <a href="{% url 'quiz' question_index=0 %}" class="btn btn-danger mt-3">Resetar Quiz</a>
+
+        {% if question_index < total %}
+            <a href="{% url 'quiz' question_index=question_index|add:"1" %}" class="btn btn-secondary mt-3">Próxima Pergunta</a>
+        {% endif %}
+    </div>
+</body>
+</html>

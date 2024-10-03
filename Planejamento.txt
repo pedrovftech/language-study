@@ -1,0 +1,16 @@
+Planejamento desenvolvimento:
+    Provas de escolher palavras (vocabulary, speak):
+        - Estudos (manualmente):
+            - Objetivo: Estratégia de uso dos conceitos
+            - Output: Diversos conceitos à serem memorizados em forma de frases faltando algo.
+        - Memorização (software):
+            - Questão x opções.
+                - Conceitos x conceitos.
+                - Frases p/ transformar em perguntas.
+            - Frases desordenadas (utilizar frases já existentes).
+
+    O que falta?        
+        Listen
+            - Terminar módulo do formula.
+        Speaking            
+            - Gravar meus vídeos respondendo questões.
